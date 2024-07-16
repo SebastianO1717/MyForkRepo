@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35115.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyForkRepo", "MyForkRepo\MyForkRepo.csproj", "{92248047-4E1C-49DB-B5C1-964D67B4850F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92248047-4E1C-49DB-B5C1-964D67B4850F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92248047-4E1C-49DB-B5C1-964D67B4850F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92248047-4E1C-49DB-B5C1-964D67B4850F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92248047-4E1C-49DB-B5C1-964D67B4850F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B376BD9B-6663-4F6A-9900-097D882EE0B7}
+	EndGlobalSection
+EndGlobal
